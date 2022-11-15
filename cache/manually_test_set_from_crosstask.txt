@@ -1,0 +1,996 @@
+Make Jello Shots
+6
+0,pour water
+1,pour juice
+2,pour jello powder
+3,pour alcohol
+4,stir mixture
+5,pour mixture into cup
+How to Make Jello Shots1
+9
+0,Gather your ingredients.
+1,Mix the water and alcohol to make cups.
+2,Put the mixture in the refrigerator to chill.
+3,Bring water to a boil.
+4,Measure out boiling water and mix it with the powdered Jello.
+5,Stir in the chilled water mixture.
+6,Spray the inside of the cups with cooking spray so the Jello easily slides out later.
+7,Pour the mixture into the cups.
+8,Place the shots on refrigerator.
+10
+0,To make shots, all you'll need is :
+1,The proportions will depend on the proof of the alcohol you use.
+2,Use the following ratios to ensure that the shots will set :
+3,Wait until the mixture is completely chilled before moving onto the next step.
+4,This is important because the temperature at which alcohol evaporates is degrees C.
+5,Later you will mix the alcohol with a water that was just boiled at degrees C.
+6,If the alcohol is n't cold, it might exceed its boiling point when mixed, and some of the alcohol will evaporate.
+7,You'll need boiling water, so put a little more than that in the pot or kettle since some will evaporate.
+8,Chill them until they become firm.
+9,Refrigerate until served and make sure to serve them cold.
+1,_,4,1,5,7,
+_,_,_,_,_,_,
+
+
+Build Simple Floating Shelves
+5
+0,cut shelve
+1,assemble shelve
+2,sand shelve
+3,paint shelve
+4,attach shelve
+How to Build Simple Floating Shelves1
+16
+0,Cut out wooden panels for each shelf.
+1,Cut out long strips of wood.
+2,Cut the strip into pieces as long as the length of the panels and two as long as the width.
+3,Attach strips of panels.
+4,Attach the second panel on top of the frame.
+5,Let the wood glue dry for hours.
+6,Use an orbital sander and paper to smooth the finished shelf.
+7,Finish the shelf with paint, veneer, stain, or a finishing solution.
+8,Measure the length and width of the hollow space within your shelf.
+9,Cut another strip of wood to the length of the hollow space.
+10,Cut out strips that as long as the hollow space.
+11,Screw strips to the long mounting strip.
+12,Test the wall mount.
+13,Attach the shelf mount to the wall.
+14,Slide the shelf onto the shelf mount.
+15,Repeat steps to make additional shelves as desired.
+29
+0,The size of the panel will correspond with the size of the finished shelf, so choose accordingly.
+1,You can either use a nice wood or plywood/MDF and then apply paint or a nicer veneer later.
+2,The first one will be cut into pieces and placed between your panels to create a shelf that can fit over on your wall.
+3,The second will form the shelf mount itself.
+4,Note that the pieces forming the internal shelf framework will be placed narrow-side down within the paneling ; this will add inches height to your shelf.
+5,Set panel down, place strips the panel to form continuous edges.
+6,Then run a line of wood glue along the top of each strip and place the second panel on top.
+7,Use finishing nails or a nail gun to attach the top panel to each strip.
+8,Flip the first panel, the one that is now attached to the shelf framework, to expose the bottoms of the wooden strips.
+9,Again, run a line of wood glue along the top of each strip, place the free panel on top, and nail it to each strip.
+10,Keep the clamps on to ensure it dries well, then leave the shelf until it is hardened and you can move on.
+11,Take the clamps off when it is finished drying.
+12,Once you've finished building, take your sander and even out the entire shelf.
+13,From here, leave the stain to dry as you move on to the support bracket that holds you shelf to the wall.
+14,Do not confuse this with the overall dimensions of the shelf ; the mount you make to fix the shelf to the wall will fit inside this hollow.
+15,Cut the strip so that it could fit perfectly as the 4th wall of your little shelf.
+16,When done, gently test it by trying to fit the board snugly into your shelf.
+17,strips are the " arms " that extend off the wall and hold the shelf up.
+18,They must fit perfectly into the hollow space or the shelf wo n't be flush.
+19,To find it the right measurement, simply measure the total width of the shelf and subtract the width of the thin strip of wood that is at the top of the frame.
+20,You are basically just remaking your framework, but a little thinner so that it fits inside the shelf.
+21,Using wood glue and a nail gun, create another u-shaped frame.
+22,Make sure you use a square edge to get the mounts perfectly 90-degrees.
+23,For bigger shelves or heavy wood, use a pocket joiner and power drill to create the mount -- it will be much sturdier.
+24,Does it fit snugly inside the hollow shelf ?
+25,If not, adjust it as necessary, sanding and cutting wood so that the mount fits as snugly as possible.
+26,The best way to do this is to attach it directly to the wall studs within the wall.
+27,These can be located either with a stud locator or by knocking on the wall to search for places that do n’t sound hollow.
+28,You can either leave it sitting over the mount or take it back off, apply glue to the mount, and attach the shelf permanently.
+0/1/2,3/4,6,7,13,
+_,_,_,_,_,
+
+
+Make Taco Salad
+8
+0,add onion
+1,add taco
+2,add lettuce
+3,add meat
+4,add tomato
+5,add cheese
+6,stir
+7,add tortilla
+How to Make Taco Salad1
+8
+0,Mix the salsa and sour cream together in a small bowl using a fork or mini whisk, then set it aside.
+1,Cook the ground sirloin over heat.
+2,Mix the water and taco seasoning in a cup.
+3,Pour the seasoning into the skillet, lower the heat, and simmer for minutes.
+4,Drain the beef, then set it aside to cool.
+5,Put the beef, lettuce, tomatoes, beans, olives, and half of the cheese into a large bowl.
+6,Add the dressing, and toss the salad.
+7,Garnish the salad with the rest of the cheese, and serve it with tortilla chips.
+12
+0,Place a large skillet onto the stove, and turn the heat up to medium-high.
+1,Add the beef, and use a wooden spoon or spatula to break it up.
+2,Cook the meat, stirring occasionally, until it turns brown and starts to crumble.
+3,Tear open the package of taco seasoning, and pour it into a cup.
+4,Add the water, and mix the two together using a fork or mini whisk.
+5,Stir the meat occasionally to help the flavors mix and the meat to cook evenly.
+6,This will prevent your salad from wilting or becoming too soggy.
+7,To prevent the salad from getting too soggy, make sure that the meat is cool and drained.
+8,You can do this using salad tongs, or large spoons.
+9,Scoop the salad from the bottom of the bowl, and drop it back gently on top.
+10,Keep doing this until the dressing is evenly distributed throughout the salad.
+11,You can tuck the chips around the sides of the bowl, or you can keep them separate, so that people can grab them as they please ; not everyone enjoys soggy chips!
+0,2,5,1,5,5,6,7,
+_,_,_,_,_,_,_,_,
+
+
+Grill Steak
+11
+0,season steak
+1,put steak on grill
+2,close lid
+3,open lid
+4,move steak on grill
+5,flip steak
+6,check temperature
+7,take steak from grill
+8,top steak
+9,cut steak
+10,taste steak
+How to Grill Steak1
+11
+0,Choose a thick cut of meat.
+1,Season your steak liberally with salt at least 40 minutes before grilling.
+2,Allow the steak to come to room temperature before grilling.
+3,For best results, choose a hardwood coal, such as mesquite, for your fuel.
+4,Arrange the coals on the grill so that half contains no coals and the other contains all the coals.
+5,Start the steak on the cool side of the grill, keeping the lid closed.
+6,Flip often.
+7,Use a thermometer to tell you when you're done cooking.
+8,Sear the steak quickly F before it reaches its ideal temperature.
+9,F before it its ideal temperature, take the steak from the grill and let it rest.
+10,Enjoy your steak with some summer fare.
+20
+0,Generally, the thicker the better, especially if you like steak that has a brown, crispy outside and a juicy, pink center.
+1,See if you ca n't get steak that's 1 1/4 " or 1 1/2 " thick.
+2,If a single cut is too large for an individual, it's perfectly acceptable to share the steak with someone else or even to save it for later.
+3,Salt draws moisture out from meat, which is an bad thing is you choose to salt right before you grill.
+4,Instead, apply the salt at least 40 minutes before grilling, and up to several days ( yes, days!
+5,Steak that is temperature cooks more evenly than steak that has recently been refrigerated and is still cold in the center.
+6,Steak that has been brought up to room temperature created a final product.
+7,If you do n't have a hardwood coal, you can also employ briquettes, but briquettes burn at lower temperatures for longer.
+8,Many grilling guides advise cooks to " seal in " the juices by searing the steak over high heat first.
+9,This is a myth. In fact, juices run out of the meat depending on what temperature you cook the meat to, not proportional to what temperature you cook the meat at.
+10,Flipping often, especially if you're cooking over low heat, helps cook the meat more evenly.
+11,When flipping, be sure to use tongs or a spatula.
+12,Do not use a fork, as you will begin to lose juices.
+13,Sure, it's not real manly to use an electronic device to tell you when your steaks are done cooking, but it sure works.
+14,That's because you want to " peek " into the middle of the steak, which you ca n't really do by just looking.
+15,You can, however, use the finger test to determine whether your steak is done if you do n't have a thermometer.
+16,If you've cooked it long and slow, it should already be well on its way to having a wonderful crust.
+17,Right after your steak has finished cooking, the muscle fibers on the outside are still relatively tight, which sends the juices toward the inside of the steak.
+18,If you cut it open right now, the juices — which are compacted in small area — will leak all over the place, leaving you with a dry steak.
+19,Why not accompany the steak with some potato salad, grilled zucchini, and homemade chips.
+1,5,5,_,5,6,7,9,_,_,10,
+_,_,_,_,_,_,_,_,_,_,_,
+
+
+Make Kimchi Fried Rice
+6
+0,add onion
+1,add rice
+2,add ham
+3,add kimchi
+4,pour sesame oil
+5,stir mixture
+How to Make Kimchi Fried Rice
+16
+0,Cook rice.
+1,Store the cooked rice in the fridge overnight.
+2,Heat up oil in medium heat.
+3,Crack an egg into the skillet.
+4,Remove the egg when the edges are brown.
+5,Dice the garlic, onion, scallion and kimchi.
+6,Add the rest of the oil to the skillet and heat.
+7,Saute the onion and garlic.
+8,Add the kimchi and rice.
+9,Add the kimchi juice, soy sauce, sesame oil, salt, pepper and scallions.
+10,Stir to blend with the rice.
+11,Taste and adjust.
+12,Remove the fried rice from the skillet.
+13,Place the egg on top of the rice.
+14,Garnish with slivered nori and sesame seeds.
+15,Serve immediately.
+43
+0,Rice the day before you want to make kimchi fried rice.
+1,Use short grain Korean rice if possible, also called sticky rice or Japanese rice.
+2,Short grain rice is more authentic and has a different texture than regular long grain rice.
+3,You can find short grain rice at Asian markets and some grocery stores. If you ca n’t find short grain rice, use Jasmine rice or regular white rice.
+4,If you are cooking short grain rice, soak the rice for minutes before cooking it.
+5,Soaking the rice helps it to cook evenly and have a better texture. After you ’ve soaked your short grain rice, use rice to water instead of ratio.
+6,The rice already absorbed some water from soaking, so ratio would be using much water.
+7,Kimchi fried rice is best made with chilled rice, since rice fries better when it ’s cool and dry rather than hot and sticky.
+8,Stick your cooked rice in the fridge overnight to cool it and dry it out.
+9,Place a small skillet over medium heat.
+10,Pour cooking oil into the skillet, swirling it to coat the bottom of the pan.
+11,When the oil has heated, crack an egg into the middle of the skillet.
+12,The egg should begin to fry once it hits the pan.
+13,Let the egg sit and fry without touching it. If you are preparing the dish for several people, make each serving.
+14,Let the egg fry until its edges are browned and the yolk has just barely set.
+15,Then use a spatula to carefully lift up the egg and transfer it to a plate. Make sure not to tilt the egg as you take it out of the skillet or else the yolk could run.
+16,Dice the quarter of the yellow onion into pieces.
+17,Finely dice the garlic clove, and cut the green section of the scallion into small rounds.
+18,Then chop the kimchi into inch pieces using a sharp knife
+19,Turn up the heat to medium high, then place a wok over the heat.
+20,Pour in the rest of the oil to the skillet and swirl to coat the bottom.
+21,Once the oil has heated, drop in the onion and garlic into the wok.
+22,Heat until the onion and garlic are aromatic, about thirty seconds.
+23,After the onion and garlic become aromatic, add the kimchi.
+24,Stir the onion, garlic and kimchi together to mix.
+25,Then pour in the rice and mix until everything is combined.
+26,Pour in the kimchi juice, soy sauce and sesame oil, drizzling them evenly over the contents of the wok.
+27,Use a large spoon to stir the ingredients together in the wok.
+28,Keep the ingredients frying for minutes until the rice is warmed through and is beginning to brown.
+29,Some prefer their rice spicier than others.
+30,Taste a small forkful of the kimchi fried rice and see if it is flavorful enough for you.
+31,If you prefer it spicier, either add more kimchi juice or add few teaspoons of chili paste, a classic Korean condiment often used to add flavor and spice. You can also use Korean chili powder, diced hot pepper, crushed pepper flakes, sriracha, or your preferred brand of hot sauce.
+32,Also add more salt or pepper to taste.
+33,After you have adjusted your recipe, dish your fried rice onto a plate.
+34,There should be enough rice for large servings or regular sized servings.
+35,Use a spatula to transfer the fried egg on top of the fried rice.
+36,Again, be sure not to tilt the egg or it may run.
+37,If you have prepared plate, put an egg on top of each serving. Some prefer to cut the egg using a fork and knife and scramble the pieces into the rice before eating.
+38,Others like to keep the egg intact.
+39,Adding slivered nori and sesame seeds is a traditional way to garnish kimchi fried rice.
+40,Nori, or dried seaweed, adds a distinctive savory flavor, while sesame seeds add texture and nuttiness to rice. These garnishes are not necessary if you are already happy with the flavor of the fried rice.
+41,Kimchi fried rice is best when served hot.
+42,The texture of the rice and the egg are much better when served right after cooking, when you have finished garnishing.
+7,8,_,8,9,10,
+_,_,_,_,_,_,
+
+
+Make Meringue
+6
+0,pour egg
+1,add sugar
+2,whisk mixture
+3,put mixture into bag
+4,spread mixture
+5,put meringue into oven
+How to Make Meringue
+12
+0,Wait for a dry day.
+1,Use clean steel equipment.
+2,Use older eggs.
+3,Separate the eggs.
+4,Bring them to room temperature.
+5,Beat them to form soft peaks.
+6,Add sugar slowly.
+7,Keep beating until the peaks are stiff and glossy.
+8,Make the meringue before the filling.
+9,Spread the meringue over hot pie filling.
+10,Make meringue curls.
+11,Bake the meringue at a low temperature.
+33
+0,Meringue is made by beating air into egg whites, causing them to gain volume and become light and fluffy.
+1,The texture of meringue is best when the air is dry, because the presence of water can weigh it down.
+2,On rainy days, the air contains higher water content.
+3,That's why meringue is easier to make and gains the right volume and texture when you make it on a dry day, rather than a rainy one.
+4,Bowls made from plastic are harder to clean, and they often have traces of oil and other materials that can affect the quality of the meringue.
+5,Use clean steel bowls and utensils to make meringue.
+6,The texture of egg whites changes as the eggs age, becoming thinner.
+7,Eggs that are old whip up better than those that are extremely fresh.
+8,If you get your eggs from the supermarket, chances are they're already a few days old by the time you buy them, so they're probably fine.
+9,If you shop at farmer market, ask after eggs age so you know when to use them.
+10,You can use an egg separator or do it by hand.
+11,Meringue does n't require egg yolks, so set those aside and use them to custard or ice cream.
+12,The quickest way to separate eggs is to do the following :
+13,Room temperature egg whites will get bigger and more voluminous when you whip them.
+14,Let them come to room temperature for a few minutes instead of beating them while they're still cold from the refrigerator.
+15,Use an electric mixer to start beating the egg whites in the mixing bowl.
+16,Keep beating them for several minutes, until they foam up and gain volume.
+17,Keep going until the whites have formed into soft, floppy peaks that will hold their shape but are in no way stiff.
+18,Keeping the mixer running, add the sugar a few teaspoons at a time.
+19,It will slowly dissolve in the egg whites, causing them to become stiff and glossy.
+20,Keep adding the sugar until you've used as much as you want, and keep beating until it's dissolved.
+21,Eventually the egg whites will stiffen and take on a glossy sheen.
+22,Rub meringue between your fingers ; if it's grainy, that means you need to keep beating for more minutes to let the sugar finish dissolving.
+23,If it's smooth, the meringue is ready to be baked.
+24,This gives it a little time to set before you top the pie, which will help it stick during the baking process.
+25,Here are few delicious recipes for pies that call for a meringue topping :
+26,Have the pie crust filled with hot filling ready for the meringue.
+27,Spoon it onto the filling and spread it evenly.
+28,Keep going until you have a great heap of meringue on top of the pie.
+29,Use the back of a spoon to dip into the meringue and lift it up, allowing it to form curls and peaks.
+30,This is a popular way to make the meringue look more decorative.
+31,Every pie recipe is a little different, but most will tell you to bake the meringue at F for minutes, so it has time to bake and set without burning.
+32,It's ready when cooking thermometer reads degrees.
+3,6,7,8,9,11,
+_,_,_,_,_,_,
+
+
+Make a Latte
+6
+0,add coffee
+1,press coffee
+2,pour water
+3,pour espresso
+4,steam milk
+5,pour milk
+How to Make a Latte1
+7
+0,Grind the coffee.
+1,Prepare the milk.
+2,Steam the milk.
+3,Measure the coffee for your latte.
+4,Tamp the coffee.
+5,Make the espresso shots.
+6,Pour the steamed milk over the espresso.
+34
+0,Espresso uses a ground coffee.
+1,The coffee grounds should be about the size of the grains of table salt.
+2,The coffee grounds will clump and stick together when they are the correct size.
+3,Once you become more experienced with making espresso drinks, you can experiment with the grind of your coffee to get the exact flavor you like.
+4,Grind the espresso beans in for added freshness and control.
+5,Burr grinders will let you control how fine or coarse your espresso grounds turn out, and will result in a consistent grind.
+6,For a single, small latte you will need milk. A good rule to follow is that you will need milk per ounce of brewed espresso. Nonfat milk is the easiest to make foam but does n't taste as decadent as milk with more fat. percent milk produces foam nicely, while adding a little bit of creaminess to your drink. Whole milk is the hardest milk to foam, but makes a flavorful latte due to its higher fat content.
+7,Pour your desired amount of milk into a metal pitcher.
+8,Insert the steam wand diagonally into the milk, resting it just below the surface.
+9,This will create the froth necessary for a good latte by allowing air to get into the mix along with the steam.
+10,Grasp the handle of the pitcher with a towel to prevent your hand from getting scorched as the pitcher heats up.
+11,Open up the steam hatch by turning the appropriate knob on your espresso machine.
+12,This is often a dial you need to twist.
+13,Using a thermometer, steam milk until it reaches and 155ºF.
+14,Be careful not to steam the milk above 170ºF or it will scorch.
+15,Aim for small, light bubbles instead of big, soapy bubbles.
+16,The foam should have lightness without sacrificing body.
+17,Each espresso shot will need to have a specific amount of coffee.
+18,Most lattes are made using a double shot of espresso, which means shots.
+19,For each shot of espresso measure out ground coffee.
+20,You can do this by putting machine portafilter on a kitchen scale.
+21,Zero the machine with the empty portafilter on it.
+22,Carefully add grams coffee espresso shot.
+23,This is when you compress the ground espresso into machine portafilter using an espresso tamper.
+24,This looks like a small weight with a little handle on top.
+25,To tamp the coffee, grasp the tamp handle with your fingers.
+26,Position your hand, elbow and forearm directly above the portafilter and push down.
+27,Tamp down using an twisting motion.
+28,Apply lbs pressure an ideal tamp. Press down on a bathroom or kitchen scale to get how hard you'll have to press on the portafilter.
+29,Tamping will create a " puck " of coffee.
+30,It is important that this is evenly compressed so the espresso will brew evenly.
+31,Lock the portafilter into the group head on the espresso machine.
+32,Press the brewing button on the machine to start making the shots.
+33,The froth will pour smoothly and blend with the espresso cream.
+0,4,_,5,2,6,
+_,_,_,_,_,_,
+
+
+Make Bread and Butter Pickles
+11
+0,cut cucumber
+1,cut onion
+2,add salt
+3,pour water
+4,pour vinegar
+5,add sugar
+6,add spices
+7,put vegetables in water
+8,pack cucumbers in jar
+9,seal jar
+10,put jar in water
+How to Make Bread and Butter Pickles
+15
+0,Obtain pickling cucumbers.
+1,Wash the cucumbers thoroughly and slice them thickly, about 1⁄4 inch thick.
+2,Slice the onions.
+3,Prepare brine for the first soak using salt for quarts water.
+4,Sterilize dozen canning jars by boiling them in water for minutes.
+5,Drain the salt water out of the onion and cucumber mixture and discard it.
+6,Prepare the pickling liquid.
+7,Prepare the seals.
+8,Pack the cucumbers and onions into the sterilized jars.
+9,Remove any air bubbles from within the jar using a knife.
+10,Wipe the jar rim with a damp, clean cloth to remove any residue.
+11,Place the filled jars in a canner or a large stock pot, using a rack to prevent direct contact between the bottom of the pot and the jars.
+12,Bring the canner full of water and jars to a boil and boil for minutes, adding more time if you are at high altitude.
+13,Remove the jars from the boiling water and place them on an old towel in a sheltered area to cool overnight.
+14,Notice that if the jars are sticky, wait until they have cooled completely, at least 24 hours.
+14
+0,Grow your own, or ask around at produce stands or farmers markets in late summer.
+1,Pickling cucumbers are smaller than most salad cucumbers, inches diameter 3 to 6 inches long.
+2,Plan that medium pickling cucumbers, or pound sliced, will yield cups.
+3,Thus, for sliced cucumbers, you will need cucumbers.
+4,Leave them in half-rings, or if you prefer, aim for lengths.
+5,If you prepare them ahead of time, store them upside-down on a clean towel, covered by another clean towel.
+6,Bring the vinegar, sugar, and spices to a large saucepan or pot.
+7,Then, add the drained vegetables to the mixture and bring the combination to a boil.
+8,Boil about an inch of water in the bottom of a wide saucepan.
+9,Remove the saucepan from heat and place the jar lids individually into the water.
+10,Let them sit for minute or.
+11,Do this immediately prior to use.
+12,Pour the hot pickling liquid over the vegetables, leaving head space.
+13,Stir the pickling liquid as you go to keep the spices mixed in.
+1,2,3,3,6,6,6,_,8,9,11,
+_,_,_,_,_,_,_,_,_,_,_,
+
+
+Make Lemonade
+8
+0,cut lemon
+1,add sugar
+2,squeeze lemon
+3,pour lemon juice
+4,pour water
+5,stir mixture
+6,add ice
+7,pour lemonade into glass
+How to Make Lemonade1
+8
+0,Find a large pitcher.
+1,Squeeze some lemons to make lemon juice.
+2,Pour the lemon juice into the pitcher.
+3,Add in some cold water.
+4,Add in the sugar.
+5,Stir the lemonade and taste.
+6,Put the lemonade into the refrigerator.
+7,Serve the lemonade over ice.
+16
+0,The pitcher will need to be able to hold liquid.
+1,You will need lemon juice, which will take lemons.
+2,Cut the lemons in half, and use a citrus squeezer, a hand juicer, or a wooden reamer to squeeze the juice from the lemons.
+3,You may add the pulp if you like a thicker lemonade, or you may discard it along with the seeds.
+4,If you do not want the pulp, you can put a strainer over the pitcher, before pouring in the lemon juice.
+5,Once all of the juice is inside the pitcher, take the strainer off the pitcher and discard the pulp and seeds.
+6,You will need cold water.
+7,You can also use sparkling for a carbonated lemonade.
+8,You will need sugar.
+9,If you'd like your lemonade to be less sweet, then use a less sugar.
+10,You can use a large spoon or a whisk.
+11,Keep stirring until the sugar dissolves ; there may be some sugar granules left at the bottom of the pitcher, which is normal.
+12,At this point, you can taste the lemonade to see if it needs to be sweeter or less sweet.
+13,Leave the lemonade in the fridge for hours.
+14,Put some ice cubes into a glass, and pour the lemonade into the glass.
+15,You can garnish the lemonade with a slice of lemon or few mint leaves.
+2,_,1,4,_,6,2,7,8,_,
+_,_,_,_,_,_,_,_,
+
+
+Make French Toast
+10
+0,pour milk
+1,whisk mixture
+2,pour egg
+3,dip bread in mixture
+4,melt butter
+5,put bread in pan
+6,add vanilla extract
+7,flip bread
+8,remove bread from pan
+9,top toast
+How to Make French Toast1
+9
+0,Set the stove or electric pan to medium high heat.
+1,Crack the eggs into a bowl.
+2,Add milk, vanilla extract, and cinnamon.
+3,Turn the heat down to medium-low, once the pan is heated sufficiently.
+4,Dip the bread into the egg mixture.
+5,Coat a slice of the bread with the mixture on both sides.
+6,Place each slice onto the pan.
+7,Cook the toast until golden on both sides.
+8,Put the toast on a plate.
+4
+0,Place the pan over the burner if cooking over the stove.
+1,Add non-stick spray, olive oil, or butter so that the bread will not stick to the pan.
+2,Beat them together with a fork or whisk.
+3,Then serve immediately with syrup.
+2,_,1,4,_,6,2,7,8,_,
+_,_,_,_,_,_,_,_,_,_,
+
+
+Jack Up a Car
+3
+0,brake on
+1,raise jack
+2,lower jack
+How to Jack Up a Car
+10
+0,Park the car on a hard, flat surface.
+1,Chock the wheels.
+2,Double check that the car is parked.
+3,In sub-par conditions, take extra precautions.
+4,Find the jack point.
+5,Position the jack under the jack point.
+6,Raise the jack.
+7,Lift the car off of the ground.
+8,If you will be working under the car, use jack stands.
+9,Lower the car back down when finished.
+26
+0,Having the car slip or roll off of the jack can be extremely dangerous to yourself and others.
+1,To prevent this, always work on a flat surface away from moving vehicles or distractions.
+2,The surface you work on should be hard and sturdy so that it will not shift or give way while you are working.
+3,Chocks are blocks made from metal and rubber that keep the wheels from rolling.
+4,Set a chock in front of each wheel at the opposite end of the car from where you intend to lift. "
+5,Set the park brake and ensure the transmission is in " P. " If the car has a manual transmission, put it in the lowest forward gear.
+6,As noted above, the instructions in this section are intended to protect yourself and others in the event the car slips off its jack.
+7,If you ca n't meet the conditions above but you absolutely must jack up the car, use the instructions below to make the process safer :
+8,Most vehicles have several points along the body where the vehicle is designed to be lifted.
+9,If you lift somewhere else, car own weight may cause damage to the frame.
+10,Luckily, owner manual will almost always tell you where car jack points are.
+11,Slide your jack underneath the jack point you just found.
+12,It does n't need to be lined up perfectly — you will be able to slide it around until it is touching the car.
+13,The precise way to do this will depend on which type of jack you have.
+14,As the upper arm of the jack nears the underside of the car, make adjustments as needed so that it lines up with the jack point.
+15,When the jack makes contact with the underside of the car, it will become harder to raise.
+16,Keep working the jack upward until you notice the corner of the car leave the ground.
+17,You can stop when the car has enough clearance for you to do your work.
+18,For common tasks like changing a tire, few inches is all that's necessary.
+19,Work that requires you to put any part of your body under the car calls for jack stands.
+20,These offer a wider, secure base for car weight than ordinary jacks.
+21,It is unsafe to work under the car without jack stands.
+22,See our jack stands article for detailed instructions.
+23,At this point, you are ready to do whatever work you need to do on your car.
+24,When you are done, gradually lower the car back to the ground, remove the jack, and put it away.
+25,If you are using jack stands, you must first raise the car off of the stands, then remove the stands, and finally lower the car.
+0,6,9,
+_,_,_,
+
+
+Make Kerala Fish Curry
+7
+0,add onion
+1,add chili powder
+2,pour water
+3,add mustard seeds
+4,add curry leaves
+5,add fish
+6,stir mixture
+How to Make Kerala Fish Curry
+11
+0,Soak the kokum in water.
+1,Heat the oil in a pan.
+2,Add the mustard seed and fenugreek, and cook for several minutes.
+3,Mix the shallots, chillies, curry leaves, and garlic paste into the pan.
+4,Stir in the chili powder, coriander, and turmeric, and saute until golden brown.
+5,Add the kokum, some water, and salt to the pan, and bring to a boil.
+6,Mix in the fish and more water if necessary.
+7,Simmer the mixture until the fish is cooked.
+8,Stir well to ensure all of the ingredients are mixed.
+9,Remove the curry from the heat and add coconut oil.
+10,Garnish with curry leaves and serve.
+29
+0,Take kokum and place them in a small bowl or glass.
+1,Add lukewarm water to the container, so the kokum are completely covered with liquid.
+2,Allow them to soak for minutes. Kokum, also known as kudampuli or gambooge, are the outer skins of fruit from the kokum tree that have been dried in the sun and used to provide a tart flavor to the curry.
+3,You can usually find them at Indian grocery stores.
+4,Add canola, vegetable, or another neutral cooking oil to a large skillet.
+5,Set the burner to medium high, and heat the pan until the oil is hot, which should take minutes. Kerala fish curry is traditionally made in an earthen clay pot known as a meen chatti.
+6,If you have one, you can use it.
+7,Otherwise, a standard skillet or pan can work well.
+8,Heat them over medium high heat until they start to sizzle and pop, which should take minutes. You can also tell that the spices are ready when the seeds start to take on a darker color.
+9,After you ’ve sauteed the mustard seeds and fenugreek, stir shallots that have been finely, fresh green chillies that have been deseeded and sliced, and tablespoons garlic and ginger that have been together into a fine paste into the pan until thoroughly combined.
+10,Allow the mixture to saute for minutes or until lightly fried. The easiest way to make a paste with the garlic and ginger is to place them in a food processor and grind until they are combined.
+11,When the shallot mixture has sauted for several minutes, lower the heat to medium low, and add 1 ½ to tablespoons chili powder 1 to coriander powder, and powder the pan.
+12,Mix until well combined, and let the mixture cook until the spices turn golden brown, which should take minutes. You can adjust the amount of chili powder based on how spicy you want the curry to be.
+13,Using Kashmiri chili powder instead of regular chili powder can also help make the spice in the curry more mild.
+14,It has a vibrant red color as well, so your finished curry will have a vivid color.
+15,Once all of the spices have been added to the pan, mix the kokum, the water that it has soaked in, an extra cup of water, and salt to taste into the pan.
+16,Cover the mixture, and allow it to come to a boil, which should take minutes. Be sure to taste the mixture before you add the salt so you know how much is needed.
+17,After the kokum mixture comes to a boil, remove the lid from the pan and add pound firm white fish that ’s been into size pieces, along with much water as is necessary to just cover the fish.
+18,Cover the dish and allow it to come to a boil again. Be careful when you add the fish because it can break easily.
+19,Instead of mixing or stirring it in with the other ingredients, swirl the pan around to incorporate the fish without breaking it.
+20,When the fish mixture comes to a boil, reduce the heat to low, and allow the mixture to simmer until the fish is cooked through and the sauce thickens.
+21,That typically takes minutes. Make sure to swirl the ingredients in the pan periodically while it ’s simmering to ensure that it cooks evenly.
+22,Once the fish is cooked and the curry sauce is thick, use a wooden spoon to gently stir the ingredients.
+23,Work slowly so you do n’t break the fish into pieces.
+24,When the fish curry is fully mixed, turn off the burner and take the pan off the heat.
+25,Drizzle coconut oil to taste over the top of the curry to give it a delicious aroma. Coconut oil is a solid at room temperature, so you need to melt it in order to add it to the curry.
+26,Simply place the jar of coconut oil in a pan or bowl with hot water for several minutes or until it liquefies.
+27,After adding the coconut oil, transfer the curry to a serving dish or platter.
+28,Place curry leaves on top as a garnish, and serve. Kerala fish curry is usually served with cooked rice and warm naan bread.
+1,4,5,2,3,6,7,
+_,_,_,_,_,_,_,
+
+
+Make Banana Ice Cream
+5
+0,peel banana
+1,cut banana
+2,put bananas into blender
+3,pour milk
+4,mix ingredients
+How to Make Banana Ice Cream1
+4
+0,Peel the bananas.
+1,Freeze the bananas.
+2,Process the bananas.
+3,Add extra ingredients.
+17
+0,Make sure you have ripe bananas.
+1,They should have a few brown spots on the peels.
+2,Once you have the ripe bananas, peel them and set them aside.
+3,Take out freezer safe plastic zipper bags.
+4,Place your bananas evenly in the bags.
+5,Freeze the bananas overnight.
+6,Once they are completely frozen, take the bananas out of the freezer and bags.
+7,Lay them on a cutting board.
+8,Using a sharp knife, cut the banana into small pieces.
+9,Throw the pieces into a food processor.
+10,Pulse the bananas for seconds.
+11,The bananas should be smooth.
+12,Pour the mixture into a bowl and enjoy!
+13,Although this ice cream is fantastic on its own, you can add extra ingredients to this mixture and process the banana mixture for few additional seconds to make an amazing dessert.
+14,Add few drops of peppermint oil or extract and a handful of chocolate chips for chip ice cream.
+15,For vanilla ice cream, add few frozen cherries and vanilla extract.
+16,Add a tablespoon cocoa powder and nuts for chocolaty, nutty ice cream.
+0,2,2,3,3,
+_,_,_,_,_,
+
+
+Add Oil to Your Car
+8
+0,remove cap
+1,put funnel
+2,pour oil
+3,remove funnel
+4,close cap
+5,pull out dipstick
+6,wipe off dipstick
+7,insert dipstick
+How to Add Oil to Your Car
+18
+0,Check the oil after the car has rested for minutes.
+1,Pop the hood of the car.
+2,Locate car dipstick.
+3,Pull out the dipstick and wipe it down with a dry cloth.
+4,Reinsert the dipstick and pull it out to check your oil.
+5,Understand the appearance of the dipstick.
+6,Use the oil recommended in owner manual.
+7,Understand how to read oil viscosity.
+8,Check owner manual for the necessary certifications your oil needs.
+9,Use synthetic oils for cars or extreme conditions.
+10,Do not switch to a multi-weight oil on older cars.
+11,Add oil to the car if the dipstick reading is near the minimum line.
+12,Purchase the right oil for your car.
+13,Pop the hood of the car.
+14,Find the fill port.
+15,Check the dipstick to determine much oil you need to add.
+16,Add oil slowly to the reservoir, checking periodically.
+17,Close up the oil fill cap.
+51
+0,If you check the oil right after turning the car off you will get an inaccurate reading, as some of the oil will still be at the top of the engine.
+1,Keep the car on a level, even surface as well to make sure you are n't checking the oil on a slant. Most auto manufacturers require you check the oil after the car has been warmed by starting it in place for minutes.
+2,Check owner manual if there is any doubt. To be safe, you should check your oil every month, and more frequently if you have to drive long distances.
+3,Usually you need to pull a small lever or press driver seat to unlock the hood.
+4,From there, run your hand between the hood and the body of the car until you find a small lever, usually in the middle of the hood, and press it inward to completely free the hood.
+5,This small, yellow cap with a loop is often labeled " Engine Oil, " but even if it is not it is not difficult to find.
+6,The dipstick is a long piece of metal that extends down a tube to the oil pan, telling you, based on how high the oil line is, much oil is in the engine.
+7,It is nearly close to the front of the car, and has a colored circular handle that you can use to pull out the stick without touching any oil.
+8,Oil from the engine will spurt up on the dipstick when the car is running, meaning you should clean it and reinsert it to get an accurate reading.
+9,Note the marks near the middle or bottom of the stick, often dots, lines, cross-hatched squares, or bends in the stick.
+10,The highest mark is the " Full Line, " and your oil should be somewhere between lines.
+11,This time you should note where the oil is on the stick.
+12,It should be closer to the top mark than the bottom, usually as close as you can get it.
+13,However, unless the level is at or below the minimum mark you do not need to add more oil. If the line is close and you are unsure whether or not to add oil, drive the car and check the oil again after weeks.
+14,Is the dipstick itself clean, or mottled and dark ?
+15,Oil may start out light tan, but it will always darken with use as the engine runs, collecting impurities from the combustion cycle and from getting hot.
+16,For example, if you are driving an older car 5000 miles a month, your car might burn oil a month.
+17,There are not many reasons to switch from the recommended oil in owner manual, but that oftentimes does n't make buying oil any easier.
+18,Understanding the different numbers and ratings on motor oil packaging will make you a better consumer and can help keep your car running smoothly.
+19,Viscosity represents a fluids thickness, or resistance to flowing.
+20,A high viscosity is less likely to flow smoothly because it is thicker.
+21,There are numbers viscosity of an oil in combination or 20W-50.
+22,The first number, with the W, is for the winter temperature of the oil.
+23,This tells you how well it flows in cold weather when it the oil is thicker.
+24,The second number is how well the oil maintains its thickness in heat.
+25,This will help make sure your car stays healthy and under warranty.
+26,Each motor oil has several different certifications possible, from the API to ILSAC recommended guidelines.
+27,Make sure whatever oil you use meets the standards put forth by your manufacturer.
+28,Though effective, synthetic oils are also more expensive than their natural counterparts.
+29,If your car has been running fine on a single weight oil, you do n't want to switch now.
+30,This could cause sludge and grime that built up in the engine to dislodge and cause problems.
+31,Stick with what the car is used to and needs -- switching to a oil later will only cause more problems.
+32,You should top up your car immediately if you are at or below the proper oil level to prevent damage to your car.
+33,Adding oil to your car, however, is not replacing your oil on a regular basis.
+34,Check owner manual to see what oil is right for your car, or talk to your mechanic.
+35,Do not switch away from the recommended oil unless you have a good reason -- it will not necessarily make your car perform better unless it is made for that oil.
+36,You need to pull a lever or press driver seat to get the hood up.
+37,Return to the front of the car and run your hand between the hood and the body until you find a lever, usually in the middle of the hood.
+38,Press it inward to completely free the hood and expose the engine.
+39,It is almost always labeled oil with a small picture of an oil can on the top.
+40,If you have trouble, check owner manual, though it is usually found near the front of the car near the engine and the dipstick.
+41,Unscrew the top and set it aside.
+42,Usually, the difference between the bottom of the stick and the top is quart, so you can use this to estimate much oil you want to add.
+43,If it is halfway full, for example, you need to add half a quart of oil.
+44,That said, you should always add the oil in quarter quart increments to prevent overfilling, as this can cause serious engine issues.
+45,Add oil for seconds, wait a minute, and then check the dipstick.
+46,You want the oil level to be close to the top mark on the dipstick, so get it as close as you can without overflowing.
+47,You should rarely need to add more than oil.
+48,If you do, there may be serious issues at play in the engine, and you should check the oil again within a week to check if it's leaking.
+49,Otherwise, your engine should be good to run.
+50,Remember to get your oil changed when it is dirty or after miles.
+_,_,16,_,17,3,3,4,
+_,_,_,_,_,_,_,_,
+
+
+Change a Tire
+11
+0,brake on
+1,get things out
+2,start loose
+3,jack up
+4,unscrew wheel
+5,withdraw wheel
+6,put wheel
+7,screw wheel
+8,jack down
+9,tight wheel
+10,put things back
+How to Change a Tire on a 1999‐2004 Jeep Grand Cherokee (WJ)
+20
+0,Pull safely to the side of the road.
+1,Place your transmission into the' Park' position, and engage the parking brake by pulling up on the brake lever until the word' BRAKE' appears in red in the instrument panel.
+2,Block off the tire and wheel diagonal to the tire you'll be changing.
+3,Do not allow yourself or any of your passengers to remain inside of your vehicle while you're changing the tire.
+4,Get the supplies you need.
+5,Get your tools out.
+6,Before jacking up your Jeep, insert the lug wrench tool onto the rod tool, and loosen each lug nut on the tire to be changed by turn.
+7,Find the jacking location underneath of your Jeep, closest to the tire you'll be changing.
+8,Make sure the jack is fully engaged.
+9,With the Jeep raised up off the ground, remove the lug nuts by using the lug wrench tool.
+10,Remove the tire and wheel off of the wheel hub.
+11,Place the spare tire and wheel onto the wheel hub.
+12,Insert each lug nut onto the spare wheel and start to turn by hand.
+13,Tighten the lug nuts by using the lug wrench tool.
+14,Insert the jack tool into the jack, and begin to turn the tool counter-clockwise to lower the Jeep back onto the ground.
+15,Remove the jack tool and jack from underneath of the Jeep and the jacking location.
+16,Use the lug wrench tool in order to finish fully tightening the lug nuts on the spare wheel.
+17,Put your tools back.
+18,Disassemble the lug wrench tool from the jack tool.
+19,Get some professional input as soon as possible.
+22
+0,Make sure that you're parked away from ice, snow, and traffic.
+1,For example, if you're changing the right rear tire, then you'll want to block off the left front tire and wheel by using a wheel chock.
+2,Jeep spare tire and wheel, as well as the jack, are located underneath of the rear cargo floor.
+3,To access these items, open the rear cargo hatch, and open the carpeted rear cargo cover.
+4,The tools that you'll need to jack up your Jeep are located under passenger bench seat.
+5,To access the jack tools, pull up on the vinyl loop to fold passenger side bench seat cushion up.
+6,Remove the jack tools from the floor underneath of passenger bench seat.
+7,Insert the jack into the notch of the jacking location you'll be using, and make sure it is fully engaged.
+8,Then insert the jack rod into the jack, and use the lug wrench tool to turn the rod clockwise to begin to raise the Jeep up off the ground.
+9,Set the tire flat on the ground, with the face of the wheel and the valve step facing towards you.
+10,Make sure the spare tire and wheel is straight on the wheel hub.
+11,You should use much effort as possible in order to ensure that the lug nuts are tightened properly.
+12,You'll finish securing the lug nuts once your Jeep is back on the ground.
+13,Again, maximum effort should be used in order to ensure that the lug nuts are fully tightened onto the spare wheel.
+14,You're almost done now!
+15,With the Jeep lowered back onto the ground, unblock the wheel you blocked in the first few steps, and open the rear cargo hatch.
+16,Place the jack back into the wheel location underneath of the rear cargo floor, and store the wheel and tire you removed back into the wheel location.
+17,Secure the wheel and tire by using the " J " hook and wing nut you removed in the first few steps.
+18,Replace the carpeted rear cargo cover.
+19,Store both tire tools in their original locations underneath of the bench seat cushion, and fold the bench seat cushion back into its original, flat position.
+20,You should have the lug nut tightness checked by dealership service department, or by an authorized service station by a torque wrench in order to ensure that you've tightened the lug nuts on the spare wheel and tire securely.
+21,It's also a good idea to replace the tire that you removed as soon as possible.
+1,5,6,9,9,10,11,12/13,14,16,17,
+_,_,_,_,_,_,_,_,_,_,_,
+
+
+Make Irish Coffee
+5
+0,pour alcohol
+1,pour espresso
+2,add sugar
+3,stir mixture
+4,add whipped cream
+How to Make Irish Coffee1
+5
+0,Heat a mug with hot water.
+1,Add coffee to the warmed mug.
+2,Mix in brown sugar.
+3,Add your whiskey.
+4,Top your coffee with whipped cream.
+12
+0,This should heat it up slightly.
+1,Let the water sit for few minutes before dumping out the contents.
+2,Once the mug is heated, add your brewed coffee to the mug.
+3,Fill the mug up the way full. The fresher the coffee, the better.
+4,It's a good idea to brew coffee right before you decide to make Irish coffee.
+5,Use a spoon to transfer your brown sugar to the coffee.
+6,Use the same spoon to mix the sugar until it's completely dissolved.
+7,Measure out your whiskey and slowly pour it into your mug.
+8,Stir the coffee slightly to blend everything together.
+9,When adding your whipped cream, pour it slowly over the back of a spoon.
+10,This will ensure the cream stays on top of the coffee.
+11,You can now enjoy your Irish coffee.
+3,1,2,_,4,
+_,_,_,_,_,
+
+
+Make French Strawberry Cake
+9
+0,pour egg
+1,add sugar
+2,add flour
+3,add butter
+4,whisk mixture
+5,put dough into form
+6,spread creme upon cake
+7,cut strawberries
+8,add strawberries to cake
+How to Make French Strawberry Cake
+28
+0,Preheat the oven and prepare the pan.
+1,Heat the sugar, eggs, and lemon zest.
+2,Whisk the wet mixture.
+3,Fold in flour.
+4,Melt and fold in the butter.
+5,Bake the génoise cake.
+6,Cool the cake.
+7,Put the milk pod in a pan.
+8,Heat the milk.
+9,Whisk the eggs, sugar, kirsch, and cornstarch.
+10,Strain the hot milk.
+11,Cook the custard.
+12,Cut and stir in the butter.
+13,Chill the crème pâtissière.
+14,Combine lemon juice, sugar, and a little water.
+15,Heat the syrup to dissolve the sugar.
+16,Roll the marzipan into a circle.
+17,Prepare the pan.
+18,Slice the génoise cake.
+19,Wash and trim fresh strawberries.
+20,Brush syrup over the cake and arrange the strawberries.
+21,Pipe the crème pâtissière onto the cake.
+22,Add another layer of strawberries and crème pâtissière.
+23,Lay the other half of cake and brush it with syrup.
+24,Arrange the marzipan and chill the cake.
+25,Make chocolate decorations.
+26,Remove the cake from the pan.
+27,Top the cake with decorations and serve it.
+99
+0,Spray the pan with cooking spray and line it with parchment paper.
+1,Set the pan aside. If you're using the cake pan, it should have a removable bottom.
+2,Heat water in a medium saucepan until the water simmers.
+3,Set a large mixing bowl over the simmering water.
+4,Measure cup of sugar and whole eggs into the bowl.
+5,Zest lemons and add just the zest to the bowl. Keep the water in the saucepan simmering, so your sugar mixture heats gently.
+6,Insert whisk attachments into a hand mixer.
+7,Whisk the wet mixture in the mixing bowl on high speed for several minutes.
+8,The mixture will double in size and become pale. Turn off the mixer and lift the whisk attachments out of the mixture.
+9,If the mixture dribbles back into the bowl in a ribbon-shape, you do n't need to whisk it any longer.
+10,Turn the heat off to the saucepan.
+11,Add flour to the bowl with the wet ingredients.
+12,Use a metal spoon or rubber spatula to gently fold the flour into the wet mixture. To fold in the flour, hold the spoon and use a twisting motion with your wrist to cut the flour in through the center of the wet mixture.
+13,This will combine the wet ingredients without losing the volume you beat into the mixture.
+14,Place unsalted butter into a small, bowl.
+15,Melt the butter and let it cool a little bit.
+16,Once it's at room temperature, pour it into the bowl with the génoise batter.
+17,Gently fold the melted butter, so it's incorporated. You can substitute salted butter.
+18,The batter may be a little richer.
+19,Scoop the batter into the prepared pan and put it in the preheated oven.
+20,Bake the cake for minutes.
+21,The top of the cake will turn a light golden brown and the sides of the cake will pull away from the pan a little once it's finished baking.
+22,Remove the cake from the oven and let it rest in the pan for a few minutes.
+23,Remove the side of the springform pan or remove the sides from the removable cake pan.
+24,Set the cake on a wire rack to cool completely. The finished cake will only be about 2-inches high.
+25,Pour milk into a wide saucepan.
+26,Take a small knife and careful cut a long slit along pod.
+27,Use the tip of the knife to carefully scrape out the seeds.
+28,Add the seeds and the pod to the milk in the pan. The seeds will look like a dark, thick paste.
+29,If you do n't have a vanilla pod, you can add vanilla to the crème pâtissière once it's finished cooking.
+30,Turn the heat on to medium and let vanilla milk slowly heat up.
+31,You'll need to stir it occasionally to prevent it from scorching.
+32,Keep cooking the milk until it begins to boil.
+33,Turn off the heat once it starts bubbling.
+34,Get out a mixing bowl and crack whole eggs into it.
+35,Whisk the mixture until it's combined. If you do n't have kirsch, you can use another type of cherry brandy or leave it out.
+36,You can discard or save the extra couple of egg whites for a different recipe.
+37,Remove the vanilla pod from the pan of hot milk.
+38,Place mesh sieve over the bowl with the sugar mixture.
+39,Carefully pour the hot milk through the sieve into the egg mixture.
+40,Discard the solids left in the strainer.
+41,Whisk the hot milk into the egg mixture until the custard mixture is combined. Avoid whisking too quickly or the hot milk may splash onto you.
+42,Pour the custard mixture into a clean saucepan and turn the heat on to medium.
+43,Keep stirring and cooking the custard for minutes.
+44,It will thicken quickly, so stir well to prevent lumps.
+45,The custard should be thick enough to pipe. If your crème pâtissière is lumpy, use a whisk to smooth the lumps out.
+46,Add the cubed butter to the crème pâtissière and stir the mixture well.
+47,The butter should melt and combine with the crème pâtissière.
+48,Let the custard cool for a minute and then pour it into a shallow dish or baking pan.
+49,Put the crème pâtissière in the refrigerator to chill for hour.
+50,The custard should set and become cold. You can make the crème pâtissière ahead of time and chill it for day.
+51,Squeeze the juice from lemons that you earlier.
+52,Pour the juice into a small saucepan and add 1/3 cup of sugar.
+53,Turn the heat to medium-high and stir the syrup.
+54,Keep stirring and boiling the syrup for minutes, so the sugar dissolves completely.
+55,Turn off the heat and let the lemon syrup cool.
+56,Get out pink marzipan and roll it into a ball.
+57,Use a rolling pin to roll it into a circle.
+58,If the circle is n't perfect, place the circular bottom of the marzipan to use as a guide.
+59,Trim around the circle, so your marzipan is circular.
+60,Place the marzipan circle on in the fridge while you assemble the cake. Chilling the rolled marzipan will make assembly easier and make the circle sit flatter on the cake.
+61,Take a springform tin and spray it with cooking spray.
+62,Take acetate paper and lay it along the sides of the tin.
+63,If you do n't have acetate paper, you could use parchment paper lined with foil or just line the pan with plastic wrap. You can find acetate paper at culinary supply stores, supply stores, or supply stores.
+64,Just cut the plastic to fit your pan.
+65,Peel the parchment paper off of the bottom of the génoise cake.
+66,Use a serrated knife to gently slice through the cake horizontally, so you have thin layers of cake.
+67,Each layer should be the same height.
+68,Lay of the layers the bottom of the prepared springform pan
+69,Wash strawberries that about the same size.
+70,Use a small knife to cut each strawberry in half, so you have halves.
+71,Pour half of the cooled, lemon syrup over the layer of cake in the bottom of the pan.
+72,Use the back of a spoon to spread it evenly and push it into the cake.
+73,Place the strawberry halves along the outside of the pan, so they're firmly pressed into the cake and nestled against each other. The cut sides of the strawberries should be pressed against the acetate.
+74,This way, the strawberry halves will be exposed once you've assembled the cake and removed the acetate.
+75,Spoon most of the chilled crème pâtissière into a piping bag that's fitted with a nozzle.
+76,Use a circular motion to pipe the crème pâtissière onto the bottom of the sponge cake.
+77,Go back and pipe in between each of the strawberry halves to fill in the gapes. You do n't need a decorative piping tip on the pastry bag.
+78,Piping the custard ensures that it's spread evenly throughout the cake.
+79,Chop the remaining fresh, hulled strawberries into small chunks.
+80,Pipe another layer of crème pâtissière over the berries.
+81,Use an offset spatula to spread the custard evenly. If you want to garnish the top of the cake with fresh strawberries, wash and slice few extra berries.
+82,Set the other layer of cake on top of the crème pâtissière.
+83,The cut side should be facing up, so the top is totally level.
+84,Spread the rest of the lemon syrup over the top and gently push down on the layer of cake.
+85,Take the chilled marzipan circle out of the refrigerator.
+86,Gently lift it off of the baking sheet and set it directly onto the top of the cake in the pan.
+87,Put the cake into the refrigerator to chill.
+88,Melt chopped, white chocolate.
+89,Place it in with a small tip.
+90,Pipe the chocolate onto a silicone mat or more acetate.
+91,You can pipe decorations in any style you like.
+92,Chill the chocolate decorations until they've hardened. If you do n't want to use white chocolate, you could substitute bittersweet chocolate.
+93,Once the cake is cold, remove it from the refrigerator.
+94,Release the sides of the springform pan and slowly peel away the strip of acetate. If you used foil, the sides of the cake may not be completely smooth.
+95,Place your chocolate decorations on the marzipan top of the cake.
+96,Garnish the cake with additional fresh strawberries, few silver sugar pearls, or powdered sugar.
+97,Slice the cake and serve it immediately. You can store leftovers in the refrigerator for a day.
+98,The moisture in the strawberries will eventually make the cake soggy.
+1,1,3,4,2,_,22,19,20,
+_,_,_,_,_,_,_,_,_,
+
+
+Make Pancakes
+8
+0,add flour
+1,add sugar
+2,pour milk
+3,pour egg
+4,whisk mixture
+5,pour mixture into pan
+6,flip pancake
+7,take pancake from pan
+How to Make Pancakes1
+9
+0,Crack the eggs into a bowl and beat until creamy.
+1,Melt the butter in a bowl.
+2,Add the butter and milk to the mix.
+3,Heat the frying pan to a medium low flame.
+4,Sprinkle water onto your pan.
+5,Pour tablespoons to the tip of a large spoon or from the hot griddle or greased frying pan.
+6,Cook for minutes or until the pancake is golden.
+7,Cook the other side until golden and remove.
+8,Enjoy!
+14
+0,Make sure that it's completely melted ; a minute is sufficient.
+1,Stir gently, leaving some small clumps of dry ingredients in the batter.
+2,Do not blend until completely smooth.
+3,If your batter is smooth, your pancakes will be tough and flat as opposed to fluffy.
+4,If you have an initial " pancake " setting on your stove, use that.
+5,Be sure to use non-stick spray, or butter so the pancakes wo n't stick.
+6,If it' dances', or jumps from the pan with a sizzle, the pan is ready for the batter.
+7,It is best to begin with less batter, and then slowly pour more batter onto the pan to increase the pancake size.
+8,You should see bubbles form and then pop around the edges.
+9,When the bubbles at the edge of the batter pop and a hole is left that does not immediately close up, flip the cake gently.
+10,Repeat the steps for seconds side until the pancake is done enough for your tastes.
+11,Try adding butter, peanut butter, syrup, jelly, chocolate chips, cookies, candy crumbles or fruit to your pancakes for a different, exciting flavor.
+12,The varieties are endless.
+13,These are the delectable pancakes you will ever taste.
+_,_,2,0,_,5,7,7,
+_,_,_,_,_,_,_,_,
+
+
