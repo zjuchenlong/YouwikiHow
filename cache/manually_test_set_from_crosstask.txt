@@ -152,7 +152,7 @@ How to Grill Steak1
 6,Flip often.
 7,Use a thermometer to tell you when you're done cooking.
 8,Sear the steak quickly F before it reaches its ideal temperature.
-9,F before it its ideal temperature, take the steak from the grill and let it rest.
+9,F before it reaches its ideal temperature, take the steak from the grill and let it rest.
 10,Enjoy your steak with some summer fare.
 20
 0,Generally, the thicker the better, especially if you like steak that has a brown, crispy outside and a juicy, pink center.
@@ -228,7 +228,7 @@ How to Make Kimchi Fried Rice
 19,Turn up the heat to medium high, then place a wok over the heat.
 20,Pour in the rest of the oil to the skillet and swirl to coat the bottom.
 21,Once the oil has heated, drop in the onion and garlic into the wok.
-22,Heat until the onion and garlic are aromatic, about thirty seconds.
+22,Heat until the onion and garlic are seconds.
 23,After the onion and garlic become aromatic, add the kimchi.
 24,Stir the onion, garlic and kimchi together to mix.
 25,Then pour in the rice and mix until everything is combined.
@@ -281,7 +281,7 @@ How to Make Meringue
 2,On rainy days, the air contains higher water content.
 3,That's why meringue is easier to make and gains the right volume and texture when you make it on a dry day, rather than a rainy one.
 4,Bowls made from plastic are harder to clean, and they often have traces of oil and other materials that can affect the quality of the meringue.
-5,Use clean steel bowls and utensils to make meringue.
+5,Use clean dry steel bowls and utensils to make meringue.
 6,The texture of egg whites changes as the eggs age, becoming thinner.
 7,Eggs that are old whip up better than those that are extremely fresh.
 8,If you get your eggs from the supermarket, chances are they're already a few days old by the time you buy them, so they're probably fine.
@@ -455,7 +455,7 @@ How to Make Lemonade1
 13,Leave the lemonade in the fridge for hours.
 14,Put some ice cubes into a glass, and pour the lemonade into the glass.
 15,You can garnish the lemonade with a slice of lemon or few mint leaves.
-2,_,1,4,_,6,2,7,8,_,
+_,4,1,2,3,5,7,_,
 _,_,_,_,_,_,_,_,
 
 
@@ -769,7 +769,7 @@ How to Change a Tire on a 1999‐2004 Jeep Grand Cherokee (WJ)
 14,You're almost done now!
 15,With the Jeep lowered back onto the ground, unblock the wheel you blocked in the first few steps, and open the rear cargo hatch.
 16,Place the jack back into the wheel location underneath of the rear cargo floor, and store the wheel and tire you removed back into the wheel location.
-17,Secure the wheel and tire by using the " J " hook and wing nut you removed in the first few steps.
+17,Secure the wheel and tire by using hook nut you removed in the first few steps.
 18,Replace the carpeted rear cargo cover.
 19,Store both tire tools in their original locations underneath of the bench seat cushion, and fold the bench seat cushion back into its original, flat position.
 20,You should have the lug nut tightness checked by dealership service department, or by an authorized service station by a torque wrench in order to ensure that you've tightened the lug nuts on the spare wheel and tire securely.
